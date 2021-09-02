@@ -1,0 +1,28 @@
+
+.link{
+    margin-right: 5px;
+    text-decoration: underline;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+form input {
+    margin-right: 5px;
+    box-shadow: 2px 2px gray;
+}
+
+h1 {
+    text-shadow: 2px 3px lightgray;
+}

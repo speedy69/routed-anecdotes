@@ -1,0 +1,130 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "author": "Jez Humble",
+      "info": "https://martinfowler.com/bliki/FrequencyReducesDifficulty.html",
+      "votes": 0,
+      "id": 1
+    },
+    {
+      "content": "Premature optimization is the root of all evil",
+      "author": "Donald Knuth",
+      "info": "http://wiki.c2.com/?PrematureOptimization",
+      "votes": 0,
+      "id": 2
+    },
+    {
+      "content": "elämä on laiffii",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "http://mattinykanen.fi",
+      "id": 3
+    },
+    {
+      "content": "Älä koskaan syytä omista teoistasi ketään muuta. Se on mafian laki.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 4
+    },
+    {
+      "content": "Elämässä on tullut takapakkia, joskus etupakkiakin.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 5
+    },
+    {
+      "content": "Tällä kertaa ei lähtenyt lapasesta, vaan lähti jalat alta.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 6
+    },
+    {
+      "content": "Kihlat meni, mutta suhdetoiminta jatkuu.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 7
+    },
+    {
+      "content": "Aina ku mä hyppään ja pääsen siihen hyppyrin nokalle, niin mulle tulee sellanen bon voyage -tunne, siis että mä oon kokenu tän joskus aikasemminkin.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 8
+    },
+    {
+      "content": "En minä ihan selvin päin kompuroinut, vaan alkoholilla oli osuutta asiaan.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 9
+    },
+    {
+      "content": "Ehkä otin, ehkä en, so not, kunhan hyppy kulkee.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 10
+    },
+    {
+      "content": "Meikäläisen aikataulu on sellainen, että ikinä ei olla myöhässä mistään.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 11
+    },
+    {
+      "content": "Alkoholiongelma on se, että ei ole alkoholia.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 12
+    },
+    {
+      "content": "Oli sitten sukset tai nainen alla niin aina lentää.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 13
+    },
+    {
+      "content": "Oli sitten sukset tai nainen alla niin aina lentää.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 14
+    },
+    {
+      "content": "Kyllä mä tän ymmärrän, mutta kun mun aivot ei.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 15
+    },
+    {
+      "content": "Kyllä mä tän ymmärrän, mutta kun mun aivot ei.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 16
+    },
+    {
+      "content": "Kyllä mä tän ymmärrän, mutta kun mun aivot ei.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 17
+    },
+    {
+      "content": "Kyllä mä tän ymmärrän, mutta kun mun aivot ei.",
+      "author": "Matti Nykänen",
+      "votes": 0,
+      "info": "https://fi.wikiquote.org/wiki/Matti_Nyk%C3%A4nen",
+      "id": 18
+    }
+  ]
+}
